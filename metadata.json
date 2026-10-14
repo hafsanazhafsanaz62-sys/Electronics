@@ -1,0 +1,6 @@
+{
+  "name": "Lumina Electronics - Persona-Driven Tech Store",
+  "description": "Next-generation electronics storefront engineered around deep buyer persona anatomy, spec comparison, and an integrated e-commerce admin management panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
